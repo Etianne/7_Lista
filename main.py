@@ -27,3 +27,5 @@ for numero in numeros:
     soma_impares += numero
 
 print(f"A soma dos valores pares é: {soma_pares} e a soma dos valores impares é: {soma_impares}")
+
+
